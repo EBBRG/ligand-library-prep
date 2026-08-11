@@ -1,0 +1,3 @@
+# Dependencies
+rdkit>=2023.03
+dimorphite_dl>=2.0

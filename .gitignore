@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.bak
+
+# Data / logs
+*.log
+data/
+output/
+
+# OS
+.DS_Store
