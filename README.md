@@ -2,7 +2,7 @@
 
 ### RDKit Pipeline for Docking-Ready Ligand Preparation
 <div align="justify">
-Ligand Library Prep is a Python pipeline that transforms raw ligand libraries (SDF) into docking-ready, PAINS-cleaned, charge-assigned, 3D-validated** ligand collections. It implements the standard cheminformatics preparation cascade required before structure-based virtual screening — from curation and standardisation through PAINS/Brenk filtering, protonation-state enumeration, conformer generation (ETKDGv3), and duplicate/artefact control.
+Ligand Library Prep is a Python pipeline that transforms raw ligand libraries (SDF) into docking-ready, PAINS-cleaned, charge-assigned, 3D-validated ligand collections. It implements the standard cheminformatics preparation cascade required before structure-based virtual screening from curation and standardisation through PAINS/Brenk filtering, protonation-state enumeration, conformer generation (ETKDGv3), and duplicate/artefact control.
 
 Developed and maintained by the **Evo Biology and Bioinformatics Research Group (EBBRG)**, University of Agriculture Faisalabad.
 
