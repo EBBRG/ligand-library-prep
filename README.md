@@ -8,6 +8,9 @@ Developed and maintained by the **Evo Biology and Bioinformatics Research Group 
 
 ---
 
+![Pipeline overview](docs/figure.jpg)
+
+
 
 
 
