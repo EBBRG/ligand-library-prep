@@ -153,7 +153,7 @@ ligand-library-prep/
 
 If you use this pipeline in your research, please cite the EBBRG group and link to this repository:
 
-> Evo Biology and Bioinformatics Research Group (EBBRG). *Ligand Library Prep: Publication-Grade RDKit Pipeline for Docking-Ready Ligand Preparation.* University of Agriculture Faisalabad. https://github.com/EBBRG/ligand-library-prep
+> Evo Biology and Bioinformatics Research Group (EBBRG). Ligand Library Prep: RDKit Pipeline for Docking-Ready Ligand Preparation University of Agriculture Faisalabad. https://github.com/EBBRG/ligand-library-prep
 
 ---
 
