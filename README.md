@@ -166,3 +166,11 @@ Released under the **MIT License**. See `LICENSE`.
 University of Agriculture Faisalabad, Pakistan
 
 For questions, bug reports, or feature requests, please use the GitHub issue tracker.
+
+---
+
+<div style="text-align: justify">
+
+This paragraph is wrapped in a div with text-align justify. It will look clean if GitHub honors inline styles.
+
+</div>
